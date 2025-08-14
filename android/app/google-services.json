@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90071137086",
+    "project_id": "instagramloginui-a18b1",
+    "storage_bucket": "instagramloginui-a18b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90071137086:android:c5c7984b2aed0ea295ca6f",
+        "android_client_info": {
+          "package_name": "com.example.instagram_ui_with_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQpm9F7_4NZruS0VQWNp7n0S9LYn8mY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90071137086:android:a4e97290405b283e95ca6f",
+        "android_client_info": {
+          "package_name": "www.instaui.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQpm9F7_4NZruS0VQWNp7n0S9LYn8mY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
