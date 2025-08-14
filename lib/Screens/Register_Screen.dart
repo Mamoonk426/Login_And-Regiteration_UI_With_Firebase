@@ -172,7 +172,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
             padding: const EdgeInsets.only(left: 100.0),
             child: Row(
               children: [
-                Text('Dont Have an account?'),
+                Text('Already Have an account?'),
                 SizedBox(width: 3),
                 TextButton(
                   onPressed: () {
